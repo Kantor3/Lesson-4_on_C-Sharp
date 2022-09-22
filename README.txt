@@ -39,7 +39,7 @@ Homework_Task-1
 Homework_Tasks
 
 
-6 Создать для кода Tast новую консоль
+6 Создать для кода Task новую консоль
 dotnet new console
 
 
@@ -47,12 +47,26 @@ dotnet new console
 <Nullable>annotations</Nullable>
 
 
-8 Text of commits of the Tasks:
+8. Text of commits of the Tasks:
 sulution of task-1 of the seminar
  
 
 9 Описание вариантов решения проблемы "Возможно, аргумент-ссылка, допускающий значение NULL" здесь:
 https://learn.microsoft.com/ru-ru/dotnet/csharp/nullable-references
+
+
+10. Заголовки к задачам в ДЗ:
+/*
+Урок .... ...
+/*
+
+/*-----------------------------------------------------------------
+Задача ...
+Напишите программу ...
+-------------------------------------------------------------------
+*/
+...
+// *** Конец Задачи ... ***
 
 
 # Lesson-4_on_C-Sharp
